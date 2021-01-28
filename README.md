@@ -2,7 +2,10 @@
 ---
 ## The Goal of this project is
 
-## Code status, pre-release, production.
+## Status
+- Code: Development in progress
+- Pre-release: None
+- Production: None
 
 ## Installation Process
 
