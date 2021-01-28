@@ -4,8 +4,7 @@
 
 ## Status
 - Code: Development in progress
-- Pre-release: None
-- Production: None
+- Pre-trained models: Development in progress
 
 ## Installation Process
 
