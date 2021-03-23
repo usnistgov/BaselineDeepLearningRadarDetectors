@@ -26,7 +26,6 @@ import pandas as pd
 from scipy import signal
 #%%
 RFDatasetDir = '../Dataset/RFDataset'
-RFDatasetDir=r'\\fs1.ctl.nist.gov\www\RFDataset\FourGroupsSet_SNR(10-20)_NPow(-109dBmPerMHz)_duration(80ms)_FreqShiftRandomTimeVar'
 
 #Generate training and validation file names
 fileNames=[]
