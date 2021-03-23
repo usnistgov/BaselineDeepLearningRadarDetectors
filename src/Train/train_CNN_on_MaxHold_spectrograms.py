@@ -90,7 +90,6 @@ def test_prediction(model, test_spectroData, modelType, test_spectroLabel, resul
     model.save(Path(resultsPath)/(modelType+'_model_'+suffix+'.h5'))
 #%%
 datasetFolder='../Dataset/SpectrogramMaxHoldData'
-datasetFolder='/raid/Signal_detection_and_classification_refactored_raid/Dataset/SpectrogramMaxHoldData/'
 
 train_datasetFile=Path(datasetFolder+'/'+'train_spectroMaxHoldDataset.h5')
 val_datasetFile=Path(datasetFolder+'/'+'val_spectroMaxHoldDataset.h5')
