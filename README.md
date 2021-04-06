@@ -6,6 +6,7 @@ This project aims to create a comprehensive framework for generating radio frequ
 ## Status
 - Code: Training and inference for spectrogram-based models
 - Pre-trained models: Uploaded spectrogram-based pretrained models
+- Testing results: Uploaded basline testing result
 - Status: Alpha
 
 ## Installation Process
