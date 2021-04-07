@@ -1,2 +1,4 @@
 # Instructions for downloading experimental dataset
-Status: In progress 
+
+1. The experimentally collected Group6_data dataset can be downloaded using the following DOI URL: https://doi.org/10.5281/zenodo.4521678
+2. This directory also includes the MATLAB scripts used to send and receive the waveforms contained in the experimental dataset. If desired, you can create a new experimental dataset using these MATLAB scripts to send and receive the waveform data located in the workspace files in the Group6_data/Group6_orig directory. Using this approach, the received data will be automatically stored in correctly labeled workspace files in the /Group6_data/Group6_exp directory.
