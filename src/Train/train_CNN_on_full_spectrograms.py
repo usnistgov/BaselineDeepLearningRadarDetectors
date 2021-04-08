@@ -80,7 +80,8 @@ def test_prediction(model,test_generator,modelType,test_spectroLabel,resultsPath
     matDict['test_spectroLabel'] =test_spectroLabel
 
     matDict['testSetInfo'] ={name: col.values for name, col in testSetInfo.items()}
-    outVar=modelType+'_out_p'
+    #outVar=modelType+'_out_p'
+    outVar=modelType.replace('-','_')+'_out_p'
 
     matDict[outVar] =YOutput_p
 
